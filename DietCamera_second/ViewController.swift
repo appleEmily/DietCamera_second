@@ -13,8 +13,6 @@ class ViewController: UIViewController {
     @IBOutlet var todayShot: UIButton!
     @IBOutlet var pastShot: UIButton!
     
-    var number: Int!
-    var hello: Int!
     
 
     override func viewDidLoad() {
