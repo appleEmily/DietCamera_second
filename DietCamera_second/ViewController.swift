@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet var todayShot: UIButton!
-    
+    @IBOutlet var pastShot: UIButton!
 
     override func viewDidLoad() {
         super.viewDidLoad()
