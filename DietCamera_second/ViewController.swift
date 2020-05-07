@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     
     @IBOutlet var todayShot: UIButton!
     @IBOutlet var pastShot: UIButton!
+    
+    var number: Int!
 
     override func viewDidLoad() {
         super.viewDidLoad()
